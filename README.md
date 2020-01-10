@@ -11,7 +11,7 @@ Sping Boot 2 example BOOK API projet (list books, add books, find by author or t
  - BookController use service, spring data with H2 mem DB (see `application.properties` file)
  - To changhe api port see application.properties
 
-Get project : `git clone https://github.com/keuss/springboot-udev.git`
+Get project : `git clone https://github.com/keuss/udev-springboot.git`
 
 ## Build app
 
